@@ -22,5 +22,6 @@ jobs:
           distribution: 'temurin'
 
       - name: Compilar y ejecutar tests de la Calculadora
+        working-directory: ./calculadora-tdd
         run: mvn clean test
 
