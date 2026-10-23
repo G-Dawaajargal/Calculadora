@@ -1,4 +1,4 @@
-package com.zubirimanteo;
+package com.zubirimanteo.devops;
 
 import java.util.Scanner;
 
