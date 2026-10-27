@@ -1,4 +1,4 @@
-package com.zubirimanteo;
+package com.zubirimanteo.devops;
 
 public class App {
     
