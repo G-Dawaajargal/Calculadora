@@ -17,7 +17,7 @@ public class CalculadoraTest {
     void restaTest(){
         Calculadora calc = new Calculadora();
         int resul = calc.resta(10,4);
-        assertEquals(8, resul);
+        assertEquals(6, resul);
     }
     @Test 
     void multipilicacionTest(){
