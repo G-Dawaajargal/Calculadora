@@ -50,5 +50,7 @@ public class Calculadora {
         }
 
         teclado.close();
+
+        System.out.print("Cambio");
     }
 }
